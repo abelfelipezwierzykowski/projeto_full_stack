@@ -1,0 +1,36 @@
+.pf-footer {
+  background-color: #0f1724;
+  color: #cbd5e1;
+  padding: 30px 20px;
+  text-align: center;
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+  height: 30vh;
+}
+
+.pf-footer-content {
+  max-width: 50%;
+  margin: 0 auto;
+}
+
+.pf-footer p {
+  margin-bottom: 12px;
+  font-size: 0.95rem;
+}
+
+.pf-socials {
+  display: flex;
+  justify-content: center;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+
+.pf-socials a {
+  color: #7dd3fc;
+  text-decoration: none;
+  font-weight: 500;
+  transition: color 0.3s ease;
+}
+
+.pf-socials a:hover {
+  color: #38bdf8;
+}
