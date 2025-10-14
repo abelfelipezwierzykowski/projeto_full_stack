@@ -12,11 +12,7 @@ Sou apaixonado por **tecnologia**, **idiomas** e **cultura** — especialmente t
 
 Além de programar, gosto de:
 - 📚 Estudar **polonês** e **inglês**  
-- 🎶 Participar de um **grupo musical**  
-- 💃 Fazer aulas de **dança folclórica polonesa**  
 - 🎨 Aprender sobre **arte e música**
-
-Meu objetivo é continuar evoluindo como **desenvolvedor** e, no futuro, **morar e trabalhar na Polônia** 🇵🇱.
 
 ---
 
@@ -56,7 +52,7 @@ Projetos acadêmicos e experimentos criados durante o curso de Engenharia de Sof
 
 ## 📫 Contato
 
-- 💼 [LinkedIn](#)  
+- 💼 [AbelZwierzykowski](#)  
 - 📧 **abelzwierzykowski@email.com**  
 - 🌍 [Meu Portfólio Online](#) *(em breve)*  
 
