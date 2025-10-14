@@ -1,16 +1,15 @@
 # 🌟 Abel Felipe Zwierzykowski
 
 🎓 **Estudante de Engenharia de Software** | 💻 **Desenvolvedor Web em formação**  
-📍 Brasil | 🇵🇱 Apaixonado pela cultura e língua polonesa  
+
 
 ---
 
 ## 🧭 Sobre mim
 
 Olá! Eu sou o **Abel**, estudante de **Engenharia de Software** atualmente no 3º semestre.  
-Sou apaixonado por **tecnologia**, **idiomas** e **cultura** — especialmente tudo que envolve a **Polônia 🇵🇱**.  
+Sou apaixonado por **tecnologia**, **idiomas** e **cultura**
 
-Além de programar, gosto de:
 - 📚 Estudar **polonês** e **inglês**  
 - 🎨 Aprender sobre **arte e música**
 
