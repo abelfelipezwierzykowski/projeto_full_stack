@@ -15,8 +15,12 @@ export default function Cabecalho() {
           <li><a href="#projects">Projetos</a></li>
           <li><a href="#skills">Habilidades</a></li>
           <li><a href="#contact">Contato</a></li>
+          
         </ul>
+        
       </nav>
+      
     </header>
+    
   );
 }
