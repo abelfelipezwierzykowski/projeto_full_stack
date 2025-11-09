@@ -11,8 +11,8 @@ export default function Cabecalho() {
 
       <nav className="pf-nav" aria-label="Navegação principal">
         <ul>
-          <li><a href="#about">Sobre</a></li>
-          <li><a href="#projects">Projetos</a></li>
+          <li><a href="#about">Sobre mim</a></li>
+          <li><a href="#projects">Este projeto</a></li>
           <li><a href="#skills">Habilidades</a></li>
           <li><a href="#contact">Contato</a></li>
           

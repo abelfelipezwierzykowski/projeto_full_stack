@@ -23,6 +23,17 @@
 /* Foto de perfil */
 .foto-container {
   flex-shrink: 0;
+ 
+}h2 {
+  font-size: 2.2rem;
+  margin-bottom: 12px;
+  color: #7dd3fc;
+}
+
+.foto-container h2 {
+  font-size: clamp(1.25rem, 2.6vw, 2.2rem);
+  margin-bottom: 12px;
+  color: #7dd3fc;
 }
 
 .foto {
@@ -104,4 +115,8 @@
     text-align: justify;
   }
   
+  /* reforça tamanho menor do h2 da foto no mobile */
+  .foto-container h2 {
+    font-size: 1.0rem;
+  }
 }

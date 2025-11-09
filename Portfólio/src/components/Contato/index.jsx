@@ -35,7 +35,7 @@ const Button = () => {
         </div>
         <div className="child child-4">
   <a 
-    href="https://www.linkedin.com/in/seu-usuario/" 
+    href="https://www.linkedin.com/in/abel-felipe-zwierzykowski-b098aa291" 
     target="_blank" 
     rel="noopener noreferrer"
   >

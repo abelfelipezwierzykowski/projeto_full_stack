@@ -11,7 +11,7 @@ const Alinhamento = styled.div`
   align-items: flex-start; /* alinha pelo topo */
   flex-wrap: wrap; /* permite quebrar linha se a tela for pequena */
   height: 85vh;
-  background-color:#0E3659;
+  background: linear-gradient(to bottom, #000000, #1e293b,#000000);
   justify-content: space-evenly;
 align-content: center;
   padding:0;
@@ -22,9 +22,9 @@ export default function Habilidades() {
   return(
     <>
     <Alinhamento>
-    <Cardhabilidade habilidade="Back-end" detalhes="exemplo" img={logo}/>
-      <Cardhabilidade habilidade="front-end" detalhes="especialista"  img={back}/>
-        <Cardhabilidade habilidade="Sql" detalhes="especialista"  img={data}/>
+    <Cardhabilidade habilidade="Back-end" detalhes="Requisições HTTP" img={logo}/>
+      <Cardhabilidade habilidade="front-end" detalhes="Interface visual"  img={back}/>
+        <Cardhabilidade habilidade="Sql" detalhes="Banco de dados"  img={data}/>
           <Cardhabilidade habilidade="inglês + polonês" detalhes="hellow"  img={world}/>
     </Alinhamento>
     </>

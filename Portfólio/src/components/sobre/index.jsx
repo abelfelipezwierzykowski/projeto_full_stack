@@ -8,7 +8,7 @@ export default function Sobre() {
         <section className="pf-hero">
             <div className="pf-hero-content">
                 <div className='foto-container'>
-                    <h2>Não clique aqui👇</h2>
+                    <h2>Não hover aqui👇</h2>
                     <Surpresa />
                 </div>
                 <div className='resto'>
